@@ -8,4 +8,6 @@ alert(c * b * a + 3 )
 var _loginId
 var _homePage
 var _nomeCompleto
-let = global
+let = global scope priority
+var = global scope ever
+consts = global ever scope and local ever fodase ever
