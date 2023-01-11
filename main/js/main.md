@@ -11,3 +11,8 @@ var _nomeCompleto
 let = global scope priority
 var = global scope ever
 consts = global ever scope and local ever fodase ever
+== valor
+===valor e tipo
+!= valor
+!== valor e tipo
+eventos
